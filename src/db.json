@@ -1,0 +1,162 @@
+{
+  "seller": [
+    {
+      "name": "Vaibhav Patravali",
+      "email": "vaibhav@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "peter",
+      "id": 2
+    },
+    {
+      "name": "neha Patravali",
+      "email": "neha@gmail.com",
+      "password": "neha",
+      "id": 3
+    },
+    {
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "password": "mani",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 8",
+      "price": "35000",
+      "color": "white",
+      "category": "Mobile",
+      "description": "IOS 12",
+      "image": "https://www.citypng.com/public/uploads/preview/-21602680152czvchasxso.png",
+      "id": 2
+    },
+    {
+      "name": "Iphone 10",
+      "price": "40000",
+      "color": "white",
+      "category": "Mobile",
+      "description": "IOS 12",
+      "image": "https://www.citypng.com/public/uploads/preview/-21602680152czvchasxso.png",
+      "id": 3
+    },
+    {
+      "name": "Iphone 14",
+      "price": "100000",
+      "color": "white",
+      "category": "Mobile",
+      "description": "IOS 12",
+      "image": "https://www.citypng.com/public/uploads/preview/-21602680152czvchasxso.png",
+      "id": 1
+    },
+    {
+      "name": "Nike ",
+      "price": "5000",
+      "color": "white & neon",
+      "category": "shoes",
+      "description": "sports shoes",
+      "image": "https://m.media-amazon.com/images/I/51UL5o4HKqL._UY695_.jpg",
+      "id": 8
+    },
+    {
+      "name": "PUMA ",
+      "price": "5000",
+      "color": "black",
+      "category": "Shose",
+      "description": "good",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "password": "peter",
+      "id": 1
+    },
+    {
+      "name": "vaibhav",
+      "email": "vaibhav@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Neha",
+      "email": "neha@gmail.com",
+      "password": "neha",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "mani@gmail.com",
+      "password": "mani",
+      "id": 4
+    },
+    {
+      "name": "Vaibhav",
+      "email": "vaib@gmail.com",
+      "password": "vaib",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "neha@gmail.com",
+      "password": "mani",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "neha@gmail.com",
+      "password": "neha",
+      "id": 7
+    }
+  ],
+  "cart": [],
+  "order": [
+    {
+      "email": "roop5627@gmail.com",
+      "address": "testts",
+      "mobNumber": "88888888",
+      "totalPrice": 105100,
+      "userId": 4,
+      "id": 1
+    },
+    {
+      "email": "roop5627@gmail.com",
+      "address": "testts",
+      "mobNumber": "88888888",
+      "totalPrice": 105100,
+      "userId": 4,
+      "id": 2
+    },
+    {
+      "email": "roop5627@gmail.com",
+      "address": "testts",
+      "mobNumber": "88888888",
+      "totalPrice": 105100,
+      "userId": 4,
+      "id": 3
+    },
+    {
+      "email": "roop5627@gmail.com",
+      "address": "testts",
+      "mobNumber": "88888888",
+      "totalPrice": 105100,
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "email": "vaibhavpatravali007@gmail.com",
+      "address": "testts",
+      "mobNumber": "88888888",
+      "totalPrice": 5100,
+      "userId": 3,
+      "id": 5
+    }
+  ]
+}

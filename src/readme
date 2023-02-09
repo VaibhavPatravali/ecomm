@@ -1,0 +1,4 @@
+// CMD to generate auth guard
+//          ng g guard <guardname>
+
+// CMD TO generate JSON DB
